@@ -1,0 +1,20 @@
+mithunrajur@gmail.com
+MIThun@12345
+
+https://github.com/mithunrajur987
+
+
+E:\Mithun\CLUSTER\Cluster Examples\Module 1\01 Core Java\01 editplusprograms\01shallowcloning>git commit -m "first commit"
+
+*** Please tell me who you are.
+
+Run
+crete local folder and put ur exaples there and starts
+  git config --global user.email "mithunrajur@gmail.com"
+  git config --global user.name "Mithun"
+  git init
+  git add .
+  git commit -m "first commit"
+  git remote add origin  https://github.com/mithunrajur987/Documentation.git  (this need to create in git hub sign in)
+  git push -u origin master
+
